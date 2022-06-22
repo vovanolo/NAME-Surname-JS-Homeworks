@@ -14,7 +14,10 @@
 
 // alert("hello js");
 
-let age = prompt("what is your age", "18");
+// let age = prompt("what is your age", "18");
 
-console.log(age);
+// console.log(age);
+
+// homework1
+let array = [131];
 
